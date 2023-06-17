@@ -14,7 +14,11 @@ Python Job Scheduler
 Features
 --------
 
-* TODO
+TO DO
+--------
+* WSGI Server - Gunicorn
+* Dockerise the service
+* Possibly some versioning stuff
 
 Credits
 -------
